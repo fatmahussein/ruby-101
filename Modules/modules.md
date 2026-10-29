@@ -1,0 +1,1 @@
+Ruby modules are one of the language's most powerful features for organizing code and sharing functionality between classes. Unlike classes, modules cannot be instantiated directly, but they provide essential mechanisms for namespacing, code reuse, and implementing multiple inheritance through mixins.
